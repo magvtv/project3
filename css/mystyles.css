@@ -12,3 +12,10 @@ h1 {
   margin: 20px;
   padding: 20px;
 }
+
+.one {
+  padding: 10px;
+  font-size: 3.0vh;
+  font-weight: lighter;
+
+}
