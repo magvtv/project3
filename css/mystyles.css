@@ -2,18 +2,13 @@ body {
     color: rgb(132, 133, 132);
 }
 
-p {
-    font-family: sans-serif;
-    font-style: normal;
-    
-}
-
 h1 {
     font-style: oblique;
 }
 
-.one {}
-
-.two {}
-
-.three {}
+.zero {
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
