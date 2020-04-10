@@ -31,3 +31,7 @@ h1 {
 }
 */
 
+.contactus {
+  font-weight: bold;
+  text-decoration: underline overline;
+}
