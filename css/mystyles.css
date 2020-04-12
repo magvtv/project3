@@ -1,16 +1,76 @@
 body {
-    color: rgb(132, 133, 132);
+  text-align: center;
 }
 
-h1 {
+h1 {git branch -D carbon-1'.
     font-style: oblique;
 }
 
-.zero {
-  background-color: black;
-  color: white;
-  margin: 20px;
-  padding: 20px;
+#zero {
+      background-image: url("../background/h_img.jpg");
+      background-repeat: no-repeat;
+      padding-top: 4px;
+      text-align: center;
+      height: 20px;
+      color: black;
+  
+}
+
+.one {
+  background-color: white;
+  padding: 10px;
+  font-size: 2.5vh;
+  font-weight: bold;
+  color: black;
+
+}
+
+.two {
+  background-color: whitesmoke;
+}
+
+.two h1 {
+  color: black;
+}
+
+
+.serv {
+  background-image: url("../background/s_image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 20vh;
+  color: aliceblue;
+  
+  
+}
+
+.des-hidden {
+  display: none;
+}
+
+.dev-hidden {
+  display: none;
+}
+
+.manag-hidden {
+  display: none;
+}
+.clickA {
+  opacity: 0.6;
+  cursor: pointer;
+  transition: 0.3s
+}
+
+.clickB {
+  opacity: 0.6;
+  cursor: pointer;
+  transition: 0.3s
+}
+
+.clickC {
+  opacity: 0.6;
+  cursor: pointer;
+  transition: 0.3s
 }
 
 .one {
@@ -21,7 +81,7 @@ h1 {
 }
 
 #folio {
-  
+  border-bottom: 2px solid gray;
 }
 /*Want them to float against each other at equal intervals*/
 /*.column {
